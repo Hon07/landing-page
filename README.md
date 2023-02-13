@@ -37,4 +37,4 @@ It takes just 2 minutes to deploy, [click here to start the process](https://git
 
 ## Contributors
 
-This template is part of the [full stack development course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) taught at [4Geeks Academy](https://4geeksacademy.com) by Alejandro Sanchez and [many other contributors](https://github.com/4GeeksAcademy/react-hello/graphs/contributors).
+This template is part of the [full stack development course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) taught at [4Geeks Academy](https://4geeksacademy.com) by Alejandro Sanchez and [many other contributors](https://github.com/4GeeksAcademy/react-hello/graphs/contributors).# landing-page
